@@ -1,4 +1,4 @@
-# ¡Hola!  Soy Juan Camilo Giraldo Gómez
+# ¡Hola!  Soy  Camilo Giraldo
 
 ###  Ingeniero Civil transitando a Data Engineering & AI Engineering
 

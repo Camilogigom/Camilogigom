@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Juan Camilo Giraldo Gómez
+# ¡Hola!  Soy Juan Camilo Giraldo Gómez
 
 ###  Ingeniero Civil transitando a Data Engineering & AI Engineering
 
@@ -6,15 +6,15 @@ Construyo pipelines de datos confiables y busco llevar esa base hacia soluciones
 
 ---
 
-## 🙋 Sobre mí
+##  Sobre mí
 
 🎓 Ingeniero Civil (Universidad Nacional de Colombia) en transición hacia Data Engineering / AI Engineering.
 
 📍 Medellín, Colombia 🇨🇴
 
-🏅 Certificado Databricks Associate + certificaciones DataCamp (Data Engineer, DE Associate, DA Associate, SQL Associate).
+ Certificado Databricks Associate + certificaciones DataCamp (Data Engineer, DE Associate, DA Associate, SQL Associate).
 
-💡 Actualmente fortaleciendo:
+ Actualmente fortaleciendo:
 
 - Apache Airflow (orquestación de DAGs)
 - dbt
@@ -22,9 +22,9 @@ Construyo pipelines de datos confiables y busco llevar esa base hacia soluciones
 - Kafka
 - Cloud (GCP, Azure, AWS)
 
-🎯 Meta: perfil **Data Engineer con capacidades de AI Engineering** — pipelines de datos sólidos + IA aplicada sobre esos datos.
+ Meta: perfil **Data Engineer con capacidades de AI Engineering** — pipelines de datos sólidos + IA aplicada sobre esos datos.
 
-🏔️ Fuera del código, me pierdo en las montañas de Colombia — hiking y camping en rutas exigentes.
+🏔️ Fuera del código, me pierdo en las montañas de Colombia — hiking y camping en rutas exigentes. También disfruto del teatro, el cine y las visitas a museos, además de escaparme a conocer pueblos de Colombia.
 
 ---
 

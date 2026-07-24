@@ -24,7 +24,7 @@ Construyo pipelines de datos confiables y busco llevar esa base hacia soluciones
 
  Meta: perfil **Data Engineer con capacidades de AI Engineering** — pipelines de datos sólidos + IA aplicada sobre esos datos.
 
-🏔️ Fuera del código, me pierdo en las montañas de Colombia — hiking y camping en rutas exigentes. También disfruto del teatro, el cine y las visitas a museos, además de escaparme a conocer pueblos de Colombia.
+Fuera del código, me gusta hacer senderismo y alta montaña en  Colombia. También disfruto del teatro y el cine , además de visitar pueblos y ciudades de Colombia.
 
 ---
 

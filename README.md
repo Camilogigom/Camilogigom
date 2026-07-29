@@ -53,7 +53,7 @@ Fuera del código, me gusta hacer senderismo y alta montaña en  Colombia. Tambi
 
 ## 🚀 Proyectos 
 
-📦 **[Redlogistica](https://github.com/Camilogigom/Redlogistica)** — Plataforma de analítica end-to-end para una empresa de logística simulada en el Valle de Aburrá:
+📦 **[Redlogistica](https://github.com/Camilogigom/red-logistica)** — Plataforma de analítica end-to-end para una empresa de logística simulada en el Valle de Aburrá:
 - Generación de datos sintéticos en Python
 - Carga y modelado en MySQL con esquema estrella (dimensional modeling)
 - Dashboard multi-página en Power BI: medidas DAX, bookmarks, drill-through, formato condicional
